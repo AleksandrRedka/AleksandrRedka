@@ -41,6 +41,14 @@
 ---
 ---
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AleksandrRedka&count_private=true&show_icons=true&theme=algolia)]
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleksandrRedka&layout=compact&hide=typescript&theme=algolia)]
+
+
+
 [github]: https://github.com/AleksandrRedka
 [facebook]: https://www.facebook.com/AlxRedka/
 [instagram]: https://www.instagram.com/r_e_d_k_a_/
