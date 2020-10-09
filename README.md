@@ -23,7 +23,6 @@
 
 <br/>
 
-
 [<img align="left" alt="WebStorm" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/webstorm-icon-logo-svg-vector.svg" />][resume]
 [<img align="left" alt="WSCode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1028px-Visual_Studio_Code_1.18_icon.svg.png" />][resume]
 [<img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Photoshop_CC_icon.png/615px-Photoshop_CC_icon.png" />][resume]
@@ -33,14 +32,14 @@
 <br/>
 
 ***
-
 ### 🤝📱 Connect with me:
 
 [<img align="center" alt="webDev | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="center" alt="webDev | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="center" alt="webDev | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
----
 
+---
+---
 
 [github]: https://github.com/AleksandrRedka
 [facebook]: https://www.facebook.com/AlxRedka/
