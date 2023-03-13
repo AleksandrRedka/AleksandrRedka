@@ -34,9 +34,9 @@
 ***
 ### 🤝📱 Connect with me:
 
-[<img align="center" alt="webDev | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="center" alt="webDev | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="center" alt="webDev | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="webDev | Instagram" width="35px" fill="#BEBEBE" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="center" alt="webDev | Instagram" width="35px" fill="#BEBEBE"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="center" alt="webDev | LinkedIn" width="35px"fill="#BEBEBE" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ---
 ---
