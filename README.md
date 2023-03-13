@@ -2,7 +2,7 @@
 ***
 ### I'm a Husband, Father and Developer!
 - 📍 I’m from Ukraine (Kiev)
-- 💻 2+ years experience in Front-end development
+- 💻 3+ years experience in Front-end development
 ***
 
 ### 💻 Languages and Tools:
